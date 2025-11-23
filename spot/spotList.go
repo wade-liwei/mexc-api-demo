@@ -1,8 +1,8 @@
 package spotList
 
 import (
-	"demo/config"
-	"demo/utils"
+	"github.com/wade-liwei/mexc-api-demo/config"
+	"github.com/wade-liwei/mexc-api-demo/utils"
 	"fmt"
 )
 

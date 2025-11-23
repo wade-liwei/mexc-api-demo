@@ -1,7 +1,7 @@
 package main
 
 import (
-	"demo/spot"
+	"github.com/wade-liwei/mexc-api-demo/spot"
 	"fmt"
 )
 

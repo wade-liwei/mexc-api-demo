@@ -3,7 +3,7 @@ package utils
 import (
 	"crypto/hmac"
 	"crypto/sha256"
-	"demo/config"
+	"github.com/wade-liwei/mexc-api-demo/config"
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
